@@ -1,0 +1,9 @@
+A:visited {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color: rgb(0, 60, 255);text-decoration:none}
+A:active, A:link {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color:rgb(255, 0, 0);text-decoration:none}
+A:hover {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color:green;text-decoration:underline}
+.leipis, .status {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color:rgb(255, 225, 225);}
+.invstatus {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color:rgb(255, 255, 255);background-color:rgb(29, 29, 29)}
+.invnotrans {font-family:Verdana,Arial,Helvetica,sans-serif;font-size:10px;color:#000}
+body {margin:1px;}
+table {border:1px solid rgb(0, 60, 255);padding:1px}
+td {border-color: rgb(0, 38, 255)}
